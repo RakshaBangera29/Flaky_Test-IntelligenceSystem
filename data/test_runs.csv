@@ -1,0 +1,181 @@
+id,test_name,module,status,execution_time,error_type,error_message,retry_count,browser,environment,timestamp
+1,test_feedback_form_submission,Forms,passed,1.286,none,,0,chromium,staging,2026-03-18 07:11:02.607396+00:00
+2,test_search_empty_state,Search,failed,0.892,timeout,Simulated timeout observed during test_search_empty_state,1,chromium,qa,2026-03-18 11:09:02.607691+00:00
+3,test_login_valid_user,Authentication,passed_on_retry,3.313,timeout,Simulated timeout observed during test_login_valid_user,1,chromium,nightly,2026-03-18 15:08:02.607699+00:00
+4,test_search_empty_state,Search,passed,0.593,none,,0,chromium,staging,2026-03-18 19:23:02.607705+00:00
+5,test_search_returns_results,Search,passed,1.773,none,,0,chromium,nightly,2026-03-18 23:11:02.607710+00:00
+6,test_search_empty_state,Search,passed,1.159,none,,0,chromium,qa,2026-03-19 03:41:02.607715+00:00
+7,test_search_empty_state,Search,passed,1.023,none,,0,chromium,nightly,2026-03-19 07:34:02.607721+00:00
+8,test_login_locked_user_message,Authentication,passed,1.233,none,,0,chromium,nightly,2026-03-19 11:10:02.607726+00:00
+9,test_feedback_form_submission,Forms,passed,1.484,none,,0,chromium,qa,2026-03-19 15:43:02.607731+00:00
+10,test_login_valid_user,Authentication,passed,1.619,none,,0,chromium,qa,2026-03-19 19:31:02.607736+00:00
+11,test_login_valid_user,Authentication,passed,1.759,none,,0,chromium,nightly,2026-03-19 23:26:02.607740+00:00
+12,test_feedback_form_submission,Forms,passed,1.176,none,,0,chromium,staging,2026-03-20 03:22:02.607745+00:00
+13,test_login_valid_user,Authentication,failed,1.528,assertion error,Simulated assertion error observed during test_login_valid_user,1,chromium,staging,2026-03-20 07:47:02.607750+00:00
+14,test_login_valid_user,Authentication,passed,2.044,none,,0,chromium,qa,2026-03-20 11:08:02.607755+00:00
+15,test_feedback_form_submission,Forms,passed,1.542,none,,0,chromium,qa,2026-03-20 15:10:02.607760+00:00
+16,test_login_locked_user_message,Authentication,passed,1.659,none,,0,chromium,nightly,2026-03-20 20:00:02.607765+00:00
+17,test_feedback_form_submission,Forms,passed,2.004,none,,0,chromium,qa,2026-03-20 23:19:02.607769+00:00
+18,test_login_valid_user,Authentication,passed,1.447,none,,0,chromium,nightly,2026-03-21 03:58:02.607774+00:00
+19,test_search_returns_results,Search,passed_on_retry,3.139,api error,Simulated api error observed during test_search_returns_results,1,chromium,staging,2026-03-21 07:41:02.607779+00:00
+20,test_search_returns_results,Search,passed,1.838,none,,0,chromium,nightly,2026-03-21 11:34:02.607784+00:00
+21,test_search_empty_state,Search,passed,0.92,none,,0,chromium,qa,2026-03-21 15:08:02.607789+00:00
+22,test_login_valid_user,Authentication,passed,1.61,none,,0,chromium,qa,2026-03-21 19:08:02.607793+00:00
+23,test_login_valid_user,Authentication,passed,3.316,none,,0,chromium,qa,2026-03-21 23:06:02.607798+00:00
+24,test_search_returns_results,Search,passed_on_retry,3.995,api error,Simulated api error observed during test_search_returns_results,1,chromium,staging,2026-03-22 03:28:02.607803+00:00
+25,test_login_valid_user,Authentication,failed,1.313,assertion error,Simulated assertion error observed during test_login_valid_user,1,chromium,qa,2026-03-22 07:10:02.607808+00:00
+26,test_login_valid_user,Authentication,passed,1.311,none,,0,chromium,qa,2026-03-22 11:38:02.607813+00:00
+27,test_search_returns_results,Search,passed,2.35,none,,0,chromium,nightly,2026-03-22 15:06:02.607818+00:00
+28,test_feedback_form_submission,Forms,passed,1.447,none,,0,chromium,staging,2026-03-22 19:38:02.607822+00:00
+29,test_search_returns_results,Search,passed,3.154,none,,0,chromium,nightly,2026-03-22 23:26:02.607827+00:00
+30,test_search_returns_results,Search,passed,1.997,none,,0,chromium,qa,2026-03-23 03:56:02.607832+00:00
+31,test_login_locked_user_message,Authentication,passed,1.615,none,,0,chromium,qa,2026-03-23 07:51:02.607836+00:00
+32,test_login_valid_user,Authentication,passed,1.78,none,,0,chromium,staging,2026-03-23 11:27:02.607841+00:00
+33,test_feedback_form_submission,Forms,passed,0.909,none,,0,chromium,qa,2026-03-23 15:35:02.607846+00:00
+34,test_feedback_form_submission,Forms,passed,1.677,none,,0,chromium,nightly,2026-03-23 19:35:02.607851+00:00
+35,test_feedback_form_submission,Forms,passed,1.969,none,,0,chromium,nightly,2026-03-23 23:55:02.607855+00:00
+36,test_search_returns_results,Search,passed,2.032,none,,0,chromium,nightly,2026-03-24 03:10:02.607860+00:00
+37,test_login_locked_user_message,Authentication,passed,1.126,none,,0,chromium,qa,2026-03-24 07:15:02.607865+00:00
+38,test_login_valid_user,Authentication,passed,1.681,none,,0,chromium,nightly,2026-03-24 11:44:02.607869+00:00
+39,test_login_locked_user_message,Authentication,passed,1.65,none,,0,chromium,qa,2026-03-24 15:06:02.607874+00:00
+40,test_login_valid_user,Authentication,passed,1.26,none,,0,chromium,qa,2026-03-24 19:57:02.607879+00:00
+41,test_login_valid_user,Authentication,passed,1.875,none,,0,chromium,staging,2026-03-24 23:25:02.607884+00:00
+42,test_search_empty_state,Search,passed,1.568,none,,0,chromium,nightly,2026-03-25 03:34:02.607889+00:00
+43,test_search_empty_state,Search,passed,2.654,none,,0,chromium,nightly,2026-03-25 07:13:02.607894+00:00
+44,test_search_returns_results,Search,passed_on_retry,3.631,api error,Simulated api error observed during test_search_returns_results,1,chromium,qa,2026-03-25 11:05:02.607899+00:00
+45,test_search_returns_results,Search,failed,1.769,timeout,Simulated timeout observed during test_search_returns_results,1,chromium,nightly,2026-03-25 15:48:02.607904+00:00
+46,test_search_empty_state,Search,passed,1.188,none,,0,chromium,qa,2026-03-25 19:08:02.607909+00:00
+47,test_search_returns_results,Search,passed,3.085,none,,0,chromium,qa,2026-03-25 23:06:02.607913+00:00
+48,test_login_locked_user_message,Authentication,passed,1.715,none,,0,chromium,staging,2026-03-26 03:49:02.607918+00:00
+49,test_login_locked_user_message,Authentication,passed,1.604,none,,0,chromium,nightly,2026-03-26 07:49:02.607923+00:00
+50,test_feedback_form_submission,Forms,passed,1.244,none,,0,chromium,staging,2026-03-26 11:13:02.607928+00:00
+51,test_login_valid_user,Authentication,passed,2.14,none,,0,chromium,qa,2026-03-26 15:09:02.607932+00:00
+52,test_feedback_form_submission,Forms,passed,0.835,none,,0,chromium,staging,2026-03-26 19:14:02.607937+00:00
+53,test_search_returns_results,Search,passed,3.103,none,,0,chromium,qa,2026-03-26 23:36:02.607942+00:00
+54,test_search_returns_results,Search,failed,2.235,locator issue,Simulated locator issue observed during test_search_returns_results,1,chromium,staging,2026-03-27 03:17:02.607947+00:00
+55,test_feedback_form_submission,Forms,passed,1.459,none,,0,chromium,nightly,2026-03-27 07:33:02.607952+00:00
+56,test_login_valid_user,Authentication,passed,1.104,none,,0,chromium,qa,2026-03-27 11:12:02.607957+00:00
+57,test_login_valid_user,Authentication,failed,1.076,locator issue,Simulated locator issue observed during test_login_valid_user,1,chromium,staging,2026-03-27 15:57:02.607963+00:00
+58,test_feedback_form_submission,Forms,passed,1.738,none,,0,chromium,staging,2026-03-27 19:49:02.607968+00:00
+59,test_login_valid_user,Authentication,passed,0.977,none,,0,chromium,qa,2026-03-27 23:22:02.607973+00:00
+60,test_login_valid_user,Authentication,passed_on_retry,0.845,locator issue,Simulated locator issue observed during test_login_valid_user,1,chromium,qa,2026-03-28 03:34:02.607978+00:00
+61,test_feedback_form_submission,Forms,passed,3.05,none,,0,chromium,qa,2026-03-28 07:13:02.607983+00:00
+62,test_search_empty_state,Search,passed,1.635,none,,0,chromium,qa,2026-03-28 11:08:02.607988+00:00
+63,test_search_returns_results,Search,passed,1.74,none,,0,chromium,staging,2026-03-28 15:23:02.607992+00:00
+64,test_search_empty_state,Search,passed,1.448,none,,0,chromium,qa,2026-03-28 19:07:02.607997+00:00
+65,test_login_valid_user,Authentication,passed,1.378,none,,0,chromium,staging,2026-03-28 23:20:02.608001+00:00
+66,test_login_valid_user,Authentication,passed,2.721,none,,0,chromium,staging,2026-03-29 03:58:02.608006+00:00
+67,test_search_empty_state,Search,passed,0.799,none,,0,chromium,nightly,2026-03-29 07:58:02.608011+00:00
+68,test_search_returns_results,Search,passed,1.201,none,,0,chromium,qa,2026-03-29 11:05:02.608016+00:00
+69,test_feedback_form_submission,Forms,passed_on_retry,2.899,assertion error,Simulated assertion error observed during test_feedback_form_submission,1,chromium,staging,2026-03-29 15:47:02.608021+00:00
+70,test_search_empty_state,Search,passed,1.059,none,,0,chromium,staging,2026-03-29 19:22:02.608026+00:00
+71,test_login_valid_user,Authentication,passed,3.364,none,,0,chromium,qa,2026-03-29 23:25:02.608030+00:00
+72,test_login_valid_user,Authentication,passed,1.173,none,,0,chromium,staging,2026-03-30 03:26:02.608035+00:00
+73,test_login_valid_user,Authentication,passed,1.795,none,,0,chromium,qa,2026-03-30 07:54:02.608039+00:00
+74,test_login_valid_user,Authentication,passed_on_retry,2.006,assertion error,Simulated assertion error observed during test_login_valid_user,1,chromium,staging,2026-03-30 11:06:02.608044+00:00
+75,test_feedback_form_submission,Forms,passed,1.742,none,,0,chromium,nightly,2026-03-30 15:47:02.608049+00:00
+76,test_search_empty_state,Search,passed,1.653,none,,0,chromium,nightly,2026-03-30 19:23:02.608054+00:00
+77,test_search_empty_state,Search,passed_on_retry,2.465,api error,Simulated api error observed during test_search_empty_state,1,chromium,nightly,2026-03-30 23:13:02.608059+00:00
+78,test_search_empty_state,Search,passed,1.005,none,,0,chromium,nightly,2026-03-31 03:56:02.608064+00:00
+79,test_search_returns_results,Search,failed,1.548,locator issue,Simulated locator issue observed during test_search_returns_results,1,chromium,staging,2026-03-31 07:29:02.608069+00:00
+80,test_search_empty_state,Search,failed,1.093,timeout,Simulated timeout observed during test_search_empty_state,1,chromium,qa,2026-03-31 11:34:02.608074+00:00
+81,test_search_empty_state,Search,passed,1.588,none,,0,chromium,qa,2026-03-31 15:21:02.608079+00:00
+82,test_feedback_form_submission,Forms,passed,1.289,none,,0,chromium,staging,2026-03-31 19:36:02.608084+00:00
+83,test_login_valid_user,Authentication,passed,2.946,none,,0,chromium,nightly,2026-03-31 23:45:02.608089+00:00
+84,test_search_returns_results,Search,failed,1.876,api error,Simulated api error observed during test_search_returns_results,1,chromium,nightly,2026-04-01 03:44:02.608094+00:00
+85,test_search_returns_results,Search,failed,2.239,api error,Simulated api error observed during test_search_returns_results,1,chromium,qa,2026-04-01 07:49:02.608099+00:00
+86,test_login_locked_user_message,Authentication,passed,2.177,none,,0,chromium,qa,2026-04-01 11:54:02.608103+00:00
+87,test_search_empty_state,Search,passed,1.598,none,,0,chromium,staging,2026-04-01 15:23:02.608108+00:00
+88,test_login_valid_user,Authentication,passed,1.278,none,,0,chromium,qa,2026-04-01 19:29:02.608113+00:00
+89,test_search_returns_results,Search,failed,1.732,locator issue,Simulated locator issue observed during test_search_returns_results,1,chromium,nightly,2026-04-01 23:13:02.608118+00:00
+90,test_search_empty_state,Search,passed,1.334,none,,0,chromium,staging,2026-04-02 03:36:02.608123+00:00
+91,test_login_valid_user,Authentication,passed,2.156,none,,0,chromium,nightly,2026-04-02 07:24:02.608128+00:00
+92,test_search_returns_results,Search,passed,1.277,none,,0,chromium,staging,2026-04-02 11:05:02.608132+00:00
+93,test_feedback_form_submission,Forms,passed,1.707,none,,0,chromium,staging,2026-04-02 15:52:02.608137+00:00
+94,test_feedback_form_submission,Forms,passed,3.22,none,,0,chromium,staging,2026-04-02 19:09:02.608141+00:00
+95,test_login_locked_user_message,Authentication,passed,1.347,none,,0,chromium,nightly,2026-04-02 23:58:02.608146+00:00
+96,test_feedback_form_submission,Forms,passed,2.46,none,,0,chromium,staging,2026-04-03 03:37:02.608150+00:00
+97,test_search_returns_results,Search,passed,1.623,none,,0,chromium,nightly,2026-04-03 07:56:02.608154+00:00
+98,test_login_locked_user_message,Authentication,passed,1.651,none,,0,chromium,nightly,2026-04-03 11:08:02.608159+00:00
+99,test_login_locked_user_message,Authentication,passed,1.758,none,,0,chromium,qa,2026-04-03 15:36:02.608163+00:00
+100,test_search_empty_state,Search,passed,0.928,none,,0,chromium,nightly,2026-04-03 19:21:02.608168+00:00
+101,test_feedback_form_submission,Forms,passed,1.688,none,,0,chromium,qa,2026-04-03 23:12:02.608172+00:00
+102,test_search_returns_results,Search,failed,2.467,api error,Simulated api error observed during test_search_returns_results,1,chromium,staging,2026-04-04 03:26:02.608177+00:00
+103,test_login_locked_user_message,Authentication,failed,2.209,locator issue,Simulated locator issue observed during test_login_locked_user_message,1,chromium,staging,2026-04-04 07:10:02.608182+00:00
+104,test_search_returns_results,Search,passed,1.368,none,,0,chromium,staging,2026-04-04 11:52:02.608187+00:00
+105,test_login_locked_user_message,Authentication,passed,1.456,none,,0,chromium,qa,2026-04-04 15:53:02.608193+00:00
+106,test_login_locked_user_message,Authentication,passed,2.11,none,,0,chromium,nightly,2026-04-04 19:38:02.608198+00:00
+107,test_search_returns_results,Search,failed,2.228,api error,Simulated api error observed during test_search_returns_results,1,chromium,staging,2026-04-04 23:32:02.608203+00:00
+108,test_login_valid_user,Authentication,failed,2.61,assertion error,Simulated assertion error observed during test_login_valid_user,1,chromium,qa,2026-04-05 03:05:02.608208+00:00
+109,test_login_locked_user_message,Authentication,passed,2.277,none,,0,chromium,qa,2026-04-05 07:33:02.608212+00:00
+110,test_login_valid_user,Authentication,passed,1.868,none,,0,chromium,nightly,2026-04-05 11:57:02.608218+00:00
+111,test_login_locked_user_message,Authentication,failed,1.914,locator issue,Simulated locator issue observed during test_login_locked_user_message,1,chromium,qa,2026-04-05 15:41:02.608223+00:00
+112,test_feedback_form_submission,Forms,passed,1.76,none,,0,chromium,qa,2026-04-05 19:49:02.608227+00:00
+113,test_login_valid_user,Authentication,failed,1.209,locator issue,Simulated locator issue observed during test_login_valid_user,1,chromium,nightly,2026-04-05 23:55:02.608232+00:00
+114,test_login_valid_user,Authentication,failed,1.085,assertion error,Simulated assertion error observed during test_login_valid_user,1,chromium,qa,2026-04-06 03:46:02.608237+00:00
+115,test_login_locked_user_message,Authentication,passed,1.488,none,,0,chromium,nightly,2026-04-06 07:50:02.608241+00:00
+116,test_feedback_form_submission,Forms,failed,1.391,assertion error,Simulated assertion error observed during test_feedback_form_submission,1,chromium,qa,2026-04-06 11:21:02.608246+00:00
+117,test_login_locked_user_message,Authentication,passed,1.069,none,,0,chromium,staging,2026-04-06 15:50:02.608251+00:00
+118,test_feedback_form_submission,Forms,passed,2.809,none,,0,chromium,qa,2026-04-06 19:09:02.608255+00:00
+119,test_login_locked_user_message,Authentication,passed,1.957,none,,0,chromium,qa,2026-04-06 23:34:02.608260+00:00
+120,test_feedback_form_submission,Forms,passed,2.43,none,,0,chromium,qa,2026-04-07 03:44:02.608264+00:00
+121,test_search_returns_results,Search,passed,2.167,none,,0,chromium,staging,2026-04-07 07:14:02.608269+00:00
+122,test_login_valid_user,Authentication,passed,0.93,none,,0,chromium,qa,2026-04-07 11:50:02.608273+00:00
+123,test_search_returns_results,Search,passed,2.138,none,,0,chromium,qa,2026-04-07 15:10:02.608278+00:00
+124,test_feedback_form_submission,Forms,passed,1.754,none,,0,chromium,staging,2026-04-07 19:07:02.608282+00:00
+125,test_login_locked_user_message,Authentication,passed,1.53,none,,0,chromium,qa,2026-04-07 23:05:02.608287+00:00
+126,test_feedback_form_submission,Forms,failed,1.294,api error,Simulated api error observed during test_feedback_form_submission,1,chromium,staging,2026-04-08 03:29:02.608292+00:00
+127,test_feedback_form_submission,Forms,passed,1.002,none,,0,chromium,staging,2026-04-08 07:17:02.608296+00:00
+128,test_search_empty_state,Search,passed,1.332,none,,0,chromium,nightly,2026-04-08 11:06:02.608301+00:00
+129,test_login_locked_user_message,Authentication,failed,1.076,timeout,Simulated timeout observed during test_login_locked_user_message,1,chromium,qa,2026-04-08 15:34:02.608305+00:00
+130,test_login_valid_user,Authentication,passed,1.785,none,,0,chromium,staging,2026-04-08 19:28:02.608311+00:00
+131,test_feedback_form_submission,Forms,passed,0.956,none,,0,chromium,staging,2026-04-08 23:22:02.608315+00:00
+132,test_login_valid_user,Authentication,passed,1.68,none,,0,chromium,qa,2026-04-09 03:06:02.608320+00:00
+133,test_login_valid_user,Authentication,passed,2.587,none,,0,chromium,staging,2026-04-09 07:55:02.608324+00:00
+134,test_login_locked_user_message,Authentication,passed_on_retry,1.237,timeout,Simulated timeout observed during test_login_locked_user_message,1,chromium,nightly,2026-04-09 11:57:02.608329+00:00
+135,test_search_returns_results,Search,passed,1.501,none,,0,chromium,nightly,2026-04-09 15:55:02.608334+00:00
+136,test_login_valid_user,Authentication,passed,1.331,none,,0,chromium,nightly,2026-04-09 19:09:02.608338+00:00
+137,test_login_valid_user,Authentication,passed,1.332,none,,0,chromium,qa,2026-04-09 23:11:02.608343+00:00
+138,test_feedback_form_submission,Forms,passed,1.59,none,,0,chromium,qa,2026-04-10 03:16:02.608347+00:00
+139,test_search_returns_results,Search,passed,3.423,none,,0,chromium,nightly,2026-04-10 07:59:02.608352+00:00
+140,test_login_valid_user,Authentication,passed,1.086,none,,0,chromium,staging,2026-04-10 11:28:02.608357+00:00
+141,test_feedback_form_submission,Forms,passed,0.937,none,,0,chromium,nightly,2026-04-10 15:23:02.608361+00:00
+142,test_search_returns_results,Search,passed,4.071,none,,0,chromium,qa,2026-04-10 19:38:02.608366+00:00
+143,test_login_valid_user,Authentication,passed,1.24,none,,0,chromium,qa,2026-04-10 23:57:02.608371+00:00
+144,test_login_locked_user_message,Authentication,passed_on_retry,1.293,timeout,Simulated timeout observed during test_login_locked_user_message,1,chromium,nightly,2026-04-11 03:17:02.608376+00:00
+145,test_search_empty_state,Search,passed,1.119,none,,0,chromium,nightly,2026-04-11 07:33:02.608380+00:00
+146,test_feedback_form_submission,Forms,passed,1.201,none,,0,chromium,nightly,2026-04-11 11:50:02.608385+00:00
+147,test_feedback_form_submission,Forms,passed,0.82,none,,0,chromium,qa,2026-04-11 15:21:02.608390+00:00
+148,test_search_empty_state,Search,passed,1.461,none,,0,chromium,nightly,2026-04-11 19:31:02.608394+00:00
+149,test_feedback_form_submission,Forms,passed,1.246,none,,0,chromium,staging,2026-04-11 23:40:02.608399+00:00
+150,test_login_valid_user,Authentication,passed,1.52,none,,0,chromium,nightly,2026-04-12 03:45:02.608404+00:00
+151,test_login_valid_user,Authentication,passed,1.076,none,,0,chromium,staging,2026-04-12 07:47:02.608409+00:00
+152,test_login_locked_user_message,Authentication,passed,1.67,none,,0,chromium,staging,2026-04-12 11:31:02.608413+00:00
+153,test_login_valid_user,Authentication,passed,1.181,none,,0,chromium,nightly,2026-04-12 15:30:02.608418+00:00
+154,test_login_locked_user_message,Authentication,failed,1.509,locator issue,Simulated locator issue observed during test_login_locked_user_message,1,chromium,nightly,2026-04-12 19:30:02.608478+00:00
+155,test_feedback_form_submission,Forms,passed,1.218,none,,0,chromium,nightly,2026-04-12 23:14:02.608514+00:00
+156,test_login_locked_user_message,Authentication,failed,1.863,timeout,Simulated timeout observed during test_login_locked_user_message,1,chromium,staging,2026-04-13 03:14:02.608539+00:00
+157,test_feedback_form_submission,Forms,passed,1.03,none,,0,chromium,qa,2026-04-13 07:36:02.608547+00:00
+158,test_feedback_form_submission,Forms,passed,2.467,none,,0,chromium,qa,2026-04-13 11:25:02.608553+00:00
+159,test_search_empty_state,Search,passed,2.811,none,,0,chromium,qa,2026-04-13 15:49:02.608559+00:00
+160,test_search_returns_results,Search,passed,1.906,none,,0,chromium,nightly,2026-04-13 19:16:02.608565+00:00
+161,test_search_returns_results,Search,failed,1.573,timeout,Simulated timeout observed during test_search_returns_results,1,chromium,qa,2026-04-13 23:14:02.608570+00:00
+162,test_search_returns_results,Search,failed,1.183,locator issue,Simulated locator issue observed during test_search_returns_results,1,chromium,staging,2026-04-14 03:12:02.608575+00:00
+163,test_search_empty_state,Search,passed,1.987,none,,0,chromium,nightly,2026-04-14 07:24:02.608581+00:00
+164,test_search_returns_results,Search,passed,2.303,none,,0,chromium,qa,2026-04-14 11:16:02.608585+00:00
+165,test_login_valid_user,Authentication,passed,1.865,none,,0,chromium,staging,2026-04-14 15:54:02.608591+00:00
+166,test_search_returns_results,Search,passed,1.216,none,,0,chromium,staging,2026-04-14 19:32:02.608596+00:00
+167,test_login_valid_user,Authentication,passed,1.513,none,,0,chromium,qa,2026-04-14 23:45:02.608649+00:00
+168,test_login_valid_user,Authentication,passed,1.584,none,,0,chromium,nightly,2026-04-15 03:08:02.608665+00:00
+169,test_login_locked_user_message,Authentication,passed,1.059,none,,0,chromium,nightly,2026-04-15 07:44:02.608672+00:00
+170,test_login_valid_user,Authentication,passed,1.326,none,,0,chromium,nightly,2026-04-15 11:48:02.608678+00:00
+171,test_search_returns_results,Search,failed,2.375,api error,Simulated api error observed during test_search_returns_results,1,chromium,staging,2026-04-15 15:22:02.608685+00:00
+172,test_search_returns_results,Search,passed,3.029,none,,0,chromium,nightly,2026-04-15 19:21:02.608691+00:00
+173,test_search_empty_state,Search,passed,1.071,none,,0,chromium,nightly,2026-04-15 23:15:02.608696+00:00
+174,test_feedback_form_submission,Forms,passed,0.851,none,,0,chromium,nightly,2026-04-16 03:12:02.608702+00:00
+175,test_login_valid_user,Authentication,passed,3.162,none,,0,chromium,nightly,2026-04-16 07:38:02.608707+00:00
+176,test_login_valid_user,Authentication,passed,1.738,none,,0,chromium,staging,2026-04-16 11:21:02.608712+00:00
+177,test_feedback_form_submission,Forms,passed,2.134,none,,0,chromium,qa,2026-04-16 15:19:02.608717+00:00
+178,test_search_empty_state,Search,passed_on_retry,1.603,api error,Simulated api error observed during test_search_empty_state,1,chromium,staging,2026-04-16 19:47:02.608723+00:00
+179,test_login_valid_user,Authentication,passed,1.538,none,,0,chromium,nightly,2026-04-16 23:31:02.608728+00:00
+180,test_feedback_form_submission,Forms,passed,0.917,none,,0,chromium,qa,2026-04-17 03:06:02.608733+00:00
