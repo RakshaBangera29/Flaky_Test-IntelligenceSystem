@@ -41,7 +41,7 @@ export function useMetrics() {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    fetch("/data/metrics.json")
+    fetch(import.meta.env.BASE_URL + "data/metrics.json")
       .then((response) => {
         if (!response.ok) throw new Error("Dashboard data was not found.");
         return response.json();
